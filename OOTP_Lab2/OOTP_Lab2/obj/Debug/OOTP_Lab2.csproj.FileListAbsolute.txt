@@ -1,0 +1,9 @@
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\bin\Debug\OOTP_Lab2.exe.config
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\bin\Debug\OOTP_Lab2.exe
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\bin\Debug\OOTP_Lab2.pdb
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\obj\Debug\OOTP_Lab2.csprojResolveAssemblyReference.cache
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\obj\Debug\OOTP_Lab2.csproj.CoreCompileInputs.cache
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\obj\Debug\OOTP_Lab2.exe
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\obj\Debug\OOTP_Lab2.pdb
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\bin\Debug\System.ValueTuple.dll
+D:\un\OOTP\Lab\OOTP_Lab2\OOTP_Lab2\bin\Debug\System.ValueTuple.xml
